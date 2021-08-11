@@ -1,6 +1,10 @@
+<style>
 
+    h1{text-align: center;}
 
-<h1 style="text-align: center;"> Hi, I'm Avishek </h1>
+</style>
+
+<h1> Hi, I'm Avishek </h1>
 
 
 
