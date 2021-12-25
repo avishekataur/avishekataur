@@ -9,9 +9,9 @@
       especially on MERN stack projects.
     </p>
 
-<h3>I'm Familiar With These Famous Technologies</h3>
+<h3>I Would Love To Work With These Famous Technologies</h3>
 
 <img src="react.png" width="34" height="34">&nbsp;<img src="express.jpg" width="34" height="34" />&nbsp;<img src="mongo.png" width="34" height="34" />&nbsp;<img src="firebase.png" width="34" height="34" />&nbsp;<img src="html.png" width="34" height="34" />&nbsp;<img src="css.png" width="34" height="34" />&nbsp;<img src="tailwind.png" width="34" height="34" />&nbsp;<img src="bootstrap.png" width="34" height="34" />
 
 <h3>Life time learner of JavaScript</h3>
-<img src="js.png" width="48" height="48"> 
+<img src="javascript.png" width="48" height="48"> 
