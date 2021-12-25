@@ -9,7 +9,7 @@
       especially on MERN stack projects.
     </p>
 
-<h3>I Would Love To Work With These Famous Technologies</h3>
+<h3>I would love to work with these famous technologies.</h3>
 
 <img src="react.png" width="34" height="34">&nbsp;<img src="express.jpg" width="34" height="34" />&nbsp;<img src="mongo.png" width="34" height="34" />&nbsp;<img src="firebase.png" width="34" height="34" />&nbsp;<img src="html.png" width="34" height="34" />&nbsp;<img src="css.png" width="34" height="34" />&nbsp;<img src="tailwind.png" width="34" height="34" />&nbsp;<img src="bootstrap.png" width="34" height="34" />
 
