@@ -9,5 +9,13 @@
       especially on MERN stack projects.
     </p>
 
-<img src="js.png" width="24" height="24"> &nbsp; <img src="react.png" width="24" height="24"> &nbsp; <img src="firebase.png" width="24" height="24"> &nbsp; <img src="mongodb.png" width="24" height="24">
+<h3>I'm Familiar With These Famous Technologies</h3>
+
+<img src="js.png" width="34" height="34"> 
+&nbsp; 
+<img src="react.png" width="34" height="34"> 
+&nbsp; 
+<img src="firebase.png" width="34" height="34"> 
+&nbsp; 
+<img src="mongodb.png" width="34" height="34">
 
