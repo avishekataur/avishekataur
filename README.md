@@ -4,7 +4,7 @@
  <p>
       Right now, I'm seeking an opportunity to get a full-time remote
       <br />
-      job to extend my full-stack web development knowledge,
+      job to extend my frontend web development knowledge,
       <br />
       especially on MERN stack projects.
     </p>
