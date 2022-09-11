@@ -2,7 +2,7 @@
 <h3> Hi, I'm Avishek </h3>
 
  <p>
-      Right now, I'm seeking an opportunity to get a full-time remote
+      Right now, I'm seeking an opportunity to get a full-time remote / onsite
       <br />
       job to extend my frontend web development knowledge,
       <br />
